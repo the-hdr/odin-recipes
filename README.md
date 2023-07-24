@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 This repository contains the code for my first project on The Odin Project.
 
