@@ -1,0 +1,63 @@
+body
+{
+    font-family: Handjet;
+    font-size: 150%;
+}
+
+a
+{
+    font-size: 40px;
+    text-decoration: none;
+    color: rgb(54, 54, 54);
+}
+
+a:hover
+{
+    color: red;
+}
+
+a:focus
+{
+    color: maroon;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    font-family: Handjet, sans-serif;
+}
+
+h1
+{
+    font-size: 200px;
+    font-weight: 900;
+    text-align: center;
+}
+
+html
+{
+    min-height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* background-color: #70bg32; */
+    background-repeat: no-repeat;
+    /* background: -webkit-linear-gradient( to left top, blue, red);
+    background: -moz-linear-gradient( to left top, blue, red);
+    background: -ms-linear-gradient( to left top, blue, red);
+    background: -o-linear-gradient( to left top, blue, red);
+    background: linear-gradient( to left top, blue, red); */
+
+    background: -webkit-linear-gradient( to left top, white, black);
+    background: -moz-linear-gradient( to left top, white, black);
+    background: -ms-linear-gradient( to left top, white, black);
+    background: -o-linear-gradient( to left top, white, black);
+    background: linear-gradient( to left top, white, black);
+}
+
+#main-image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
