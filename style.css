@@ -24,6 +24,16 @@ a:focus
     color: maroon;
 }
 
+.home-button
+{
+    color: red;
+    height: 4rem;
+    width: auto;
+
+    display: flex;
+    justify-content: center;
+}
+
 h1, h2, h3, h4, h5, h6
 {
     font-family: Handjet, sans-serif;
