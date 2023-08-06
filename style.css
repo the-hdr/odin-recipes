@@ -26,8 +26,7 @@ a:focus
 
 .home-button
 {
-    color: red;
-    height: 4rem;
+    height: 5vh;;
     width: auto;
 
     display: flex;
