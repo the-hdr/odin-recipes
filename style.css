@@ -2,13 +2,16 @@ body
 {
     font-family: Handjet;
     font-size: 150%;
+
+    color: rgb(63, 10, 63);
 }
 
 a
 {
-    font-size: 40px;
+    font-size: 150%;
     text-decoration: none;
-    color: rgb(54, 54, 54);
+    
+    color: rgb(63, 10, 63);
 }
 
 a:hover
@@ -48,11 +51,17 @@ html
     background: -o-linear-gradient( to left top, blue, red);
     background: linear-gradient( to left top, blue, red); */
 
-    background: -webkit-linear-gradient( to left top, white, black);
+    /* background: -webkit-linear-gradient( to left top, white, black);
     background: -moz-linear-gradient( to left top, white, black);
     background: -ms-linear-gradient( to left top, white, black);
     background: -o-linear-gradient( to left top, white, black);
-    background: linear-gradient( to left top, white, black);
+    background: linear-gradient( to left top, white, black); */
+
+    background: -webkit-linear-gradient( to left top, pink, purple);
+    background: -moz-linear-gradient( to left top, pink, purple);
+    background: -ms-linear-gradient( to left top, pink, purple);
+    background: -o-linear-gradient( to left top, pink, purple);
+    background: linear-gradient( to left top, pink, purple);
 }
 
 #main-image
